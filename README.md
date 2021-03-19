@@ -1,3 +1,10 @@
+THIS PROFECT CONTAIN FOLLOWING FEATURES:
+1) FIREBASE AUTHENTICATION USING EMAIL
+2) FIREBASE DATABASE
+3) MATERIAL UI
+4) ROUTER (REACT-ROUTER AND REACT ROUTER DOM)
+5) REACT FUNCTIONAL COMPONENTS 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
